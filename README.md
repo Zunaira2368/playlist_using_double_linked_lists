@@ -1,2 +1,2 @@
-# playlist_using_double_linked_lists
-A playlist made by using Double linked lists , with forward , backward , play , favourite feature.
+# MUSIC PLAYLIST USING DOUBLY LINKED LISTS
+A Music Playlist Management System developed using Doubly Linked Lists in C/C++, featuring smooth forward and backward navigation, song playback simulation, and a favorites management system. The project demonstrates efficient use of dynamic data structures to manage playlists, allowing users to traverse songs in both directions, play tracks interactively, and mark favorite songs for quick access. It highlights practical implementation of linked list operations such as insertion, deletion, traversal, and node management in a real-world application.
